@@ -1,0 +1,14 @@
+.gradle/
+build/
+.idea/
+*.iml
+out/
+src/generated/jooq/
+.claude/
+.kotlin/
+concat_src.sh
+dump_project.sh
+memo.txt
+memo_dump.txt
+plan/
+src_all.txt
